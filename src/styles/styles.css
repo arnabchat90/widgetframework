@@ -1,0 +1,40 @@
+/*Styles*/
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#app {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+.new-widget-panel {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#f8f8f8;
+    border-radius: 3px;
+    height: 250px;
+    width: 100%;
+    color: black;
+    
+}
+
+.widget-area {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#deecf9;
+    border-radius: 3px;
+    height: 750px;
+    width: 100%;
+    color: black;
+    margin-top: 20px;
+}
